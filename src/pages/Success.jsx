@@ -20,7 +20,7 @@ export default function Success() {
       ) : (
         <div className="bg-white p-6 rounded-lg shadow-lg border border-gray-200">
           <h2 className="text-2xl font-bold text-orange-600 mb-2">
-            Order Successful
+            Order Successful.
           </h2>
           <p className="text-gray-700 text-center">
             Your order has been successfully placed! 🎉
